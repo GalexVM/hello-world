@@ -2,3 +2,7 @@ body{
     color:rgb(17, 94, 68);
     text-align: center;
 }
+#master{
+    color: brown;
+    font-size: larger;
+}
