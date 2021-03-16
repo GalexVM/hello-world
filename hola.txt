@@ -1,1 +1,2 @@
 Hola este es un txt en español porque ya me aburrí de escribir en inglés.
+Acabo de renombrar mi branch master a main.
